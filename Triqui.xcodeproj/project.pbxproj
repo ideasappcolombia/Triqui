@@ -8,11 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		4A72C1521BA087C600EB8E7C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A72C1511BA087C600EB8E7C /* AppDelegate.swift */; };
-		4A72C1541BA087C600EB8E7C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A72C1531BA087C600EB8E7C /* ViewController.swift */; };
+		4A72C1541BA087C600EB8E7C /* triqui.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A72C1531BA087C600EB8E7C /* triqui.swift */; };
 		4A72C1571BA087C600EB8E7C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4A72C1551BA087C600EB8E7C /* Main.storyboard */; };
-		4A72C1591BA087C600EB8E7C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A72C1581BA087C600EB8E7C /* Images.xcassets */; };
 		4A72C15C1BA087C600EB8E7C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4A72C15A1BA087C600EB8E7C /* LaunchScreen.xib */; };
 		4A72C1681BA087C700EB8E7C /* TriquiTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A72C1671BA087C700EB8E7C /* TriquiTests.swift */; };
+		4A72C1791BA0881B00EB8E7C /* circulo.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A72C1711BA0881B00EB8E7C /* circulo.png */; };
+		4A72C17A1BA0881B00EB8E7C /* entrada.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A72C1721BA0881B00EB8E7C /* entrada.png */; };
+		4A72C17B1BA0881B00EB8E7C /* equis.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A72C1731BA0881B00EB8E7C /* equis.png */; };
+		4A72C17C1BA0881B00EB8E7C /* fondo_splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A72C1741BA0881B00EB8E7C /* fondo_splash.png */; };
+		4A72C17D1BA0881B00EB8E7C /* logo_blanco.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A72C1751BA0881B00EB8E7C /* logo_blanco.png */; };
+		4A72C17E1BA0881B00EB8E7C /* logo_negro.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A72C1761BA0881B00EB8E7C /* logo_negro.png */; };
+		4A72C17F1BA0881B00EB8E7C /* otras_apps.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A72C1771BA0881B00EB8E7C /* otras_apps.png */; };
+		4A72C1801BA0881B00EB8E7C /* tic-tac-toe.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A72C1781BA0881B00EB8E7C /* tic-tac-toe.png */; };
+		4A88EA7E1BA0D88C00C0FCD4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4A88EA7D1BA0D88C00C0FCD4 /* Images.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,13 +37,21 @@
 		4A72C14C1BA087C600EB8E7C /* Triqui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Triqui.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A72C1501BA087C600EB8E7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A72C1511BA087C600EB8E7C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		4A72C1531BA087C600EB8E7C /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4A72C1531BA087C600EB8E7C /* triqui.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = triqui.swift; sourceTree = "<group>"; };
 		4A72C1561BA087C600EB8E7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		4A72C1581BA087C600EB8E7C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		4A72C15B1BA087C600EB8E7C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		4A72C1611BA087C700EB8E7C /* TriquiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TriquiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A72C1661BA087C700EB8E7C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4A72C1671BA087C700EB8E7C /* TriquiTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TriquiTests.swift; sourceTree = "<group>"; };
+		4A72C1711BA0881B00EB8E7C /* circulo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circulo.png; sourceTree = "<group>"; };
+		4A72C1721BA0881B00EB8E7C /* entrada.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = entrada.png; sourceTree = "<group>"; };
+		4A72C1731BA0881B00EB8E7C /* equis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = equis.png; sourceTree = "<group>"; };
+		4A72C1741BA0881B00EB8E7C /* fondo_splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fondo_splash.png; sourceTree = "<group>"; };
+		4A72C1751BA0881B00EB8E7C /* logo_blanco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_blanco.png; sourceTree = "<group>"; };
+		4A72C1761BA0881B00EB8E7C /* logo_negro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo_negro.png; sourceTree = "<group>"; };
+		4A72C1771BA0881B00EB8E7C /* otras_apps.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = otras_apps.png; sourceTree = "<group>"; };
+		4A72C1781BA0881B00EB8E7C /* tic-tac-toe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "tic-tac-toe.png"; sourceTree = "<group>"; };
+		4A88EA7D1BA0D88C00C0FCD4 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,9 +94,17 @@
 			isa = PBXGroup;
 			children = (
 				4A72C1511BA087C600EB8E7C /* AppDelegate.swift */,
-				4A72C1531BA087C600EB8E7C /* ViewController.swift */,
+				4A72C1531BA087C600EB8E7C /* triqui.swift */,
 				4A72C1551BA087C600EB8E7C /* Main.storyboard */,
-				4A72C1581BA087C600EB8E7C /* Images.xcassets */,
+				4A88EA7D1BA0D88C00C0FCD4 /* Images.xcassets */,
+				4A72C1711BA0881B00EB8E7C /* circulo.png */,
+				4A72C1721BA0881B00EB8E7C /* entrada.png */,
+				4A72C1731BA0881B00EB8E7C /* equis.png */,
+				4A72C1741BA0881B00EB8E7C /* fondo_splash.png */,
+				4A72C1751BA0881B00EB8E7C /* logo_blanco.png */,
+				4A72C1761BA0881B00EB8E7C /* logo_negro.png */,
+				4A72C1771BA0881B00EB8E7C /* otras_apps.png */,
+				4A72C1781BA0881B00EB8E7C /* tic-tac-toe.png */,
 				4A72C15A1BA087C600EB8E7C /* LaunchScreen.xib */,
 				4A72C14F1BA087C600EB8E7C /* Supporting Files */,
 			);
@@ -156,11 +180,13 @@
 		4A72C1441BA087C600EB8E7C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Ideas App Colombia";
 				TargetAttributes = {
 					4A72C14B1BA087C600EB8E7C = {
 						CreatedOnToolsVersion = 6.4;
+						DevelopmentTeam = R3H5682JP4;
 					};
 					4A72C1601BA087C700EB8E7C = {
 						CreatedOnToolsVersion = 6.4;
@@ -193,8 +219,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				4A72C1571BA087C600EB8E7C /* Main.storyboard in Resources */,
+				4A72C17D1BA0881B00EB8E7C /* logo_blanco.png in Resources */,
+				4A72C1801BA0881B00EB8E7C /* tic-tac-toe.png in Resources */,
 				4A72C15C1BA087C600EB8E7C /* LaunchScreen.xib in Resources */,
-				4A72C1591BA087C600EB8E7C /* Images.xcassets in Resources */,
+				4A72C17C1BA0881B00EB8E7C /* fondo_splash.png in Resources */,
+				4A72C17E1BA0881B00EB8E7C /* logo_negro.png in Resources */,
+				4A72C1791BA0881B00EB8E7C /* circulo.png in Resources */,
+				4A72C17A1BA0881B00EB8E7C /* entrada.png in Resources */,
+				4A88EA7E1BA0D88C00C0FCD4 /* Images.xcassets in Resources */,
+				4A72C17B1BA0881B00EB8E7C /* equis.png in Resources */,
+				4A72C17F1BA0881B00EB8E7C /* otras_apps.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,7 +246,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4A72C1541BA087C600EB8E7C /* ViewController.swift in Sources */,
+				4A72C1541BA087C600EB8E7C /* triqui.swift in Sources */,
 				4A72C1521BA087C600EB8E7C /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -342,6 +376,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Triqui/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -352,6 +388,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = Triqui/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -411,6 +449,7 @@
 				4A72C16D1BA087C700EB8E7C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4A72C16E1BA087C700EB8E7C /* Build configuration list for PBXNativeTarget "TriquiTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +458,7 @@
 				4A72C1701BA087C700EB8E7C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
